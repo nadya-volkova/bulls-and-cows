@@ -1,14 +1,14 @@
-# Игра "Быки и Коровы"
+# Bulls and Cows Game
 
-## Описание
-Это веб-приложение реализует классическую игру "Быки и коровы", где игрок должен угадать четырехзначное число, состоящее из уникальных цифр.
+## Description
+This web application implements the classic game "Bulls and Cows," where the player must guess a four-digit number composed of unique digits.
 
-## Как работает
-1. **Генерация числа**: При загрузке приложения генерируется случайное число, содержащее 4 уникальные цифры.
-2. **Ввод данных**: Игрок вводит свои предположения через 4 текстовых поля.
-3. **Проверка ввода**: Программа проверяет корректность введенных данных (должны быть только цифры и 4 уникальные цифры).
-4. **Оценка попытки**: После нажатия "Enter" или кнопки "Проверить" программа сравнивает введенное число с загаданным и сообщает количество "быков" и "коров".
-5. **Правила игры**: Игрок может открыть/закрыть окно с правилами игры.
+## How It Works
+1. **Number Generation**: Upon loading the application, a random number containing 4 unique digits is generated.
+2. **Input**: The player enters their guesses through 4 input fields.
+3. **Input Validation**: The program checks the validity of the input (only digits and 4 unique digits are allowed).
+4. **Guess Evaluation**: After pressing "Enter" or the "Check" button, the program compares the entered number with the generated one and reports the number of "bulls" and "cows."
+5. **Game Rules**: The player can toggle the display of the game rules.
 
-## Использование
-Для запуска игры откройте файл `index.html` в веб-браузере.
+## Usage
+To start the game, open the `index.html` file in a web browser.
