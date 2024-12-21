@@ -1,0 +1,80 @@
+.container 
+{
+    margin: 50px auto;
+    width: 35%;
+    text-align: center;
+
+}
+
+body 
+{
+    background-image: url("https://i.ibb.co/vJYD0dV/2.png");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+img 
+{
+    width: 50px; 
+    height: auto; 
+}
+
+#checkButton 
+{
+    background-color: #fb8686;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+}
+
+input 
+{
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+
+#result
+{
+    margin-top: 20px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.rules 
+{
+    display: none;
+    position: absolute;
+    width: 300px;
+    top: 100px;
+    left: 5%;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #817979;
+}
+
+#rulesButton 
+{
+    background-color: #777070; 
+    color: #ffffff; 
+    padding: 10px 20px; 
+    border: none; 
+    margin: 30px 0 0 40px;
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+
+h3 
+{
+    text-align: center;
+}
+
+#errorText 
+{
+    color: red;
+    margin-top: 10px;
+    font-size: 23px;
+}
