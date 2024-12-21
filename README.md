@@ -10,7 +10,7 @@ This web application implements the classic game "Bulls and Cows," where the pla
 4. **Guess Evaluation**: After pressing "Enter" or the "Check" button, the program compares the entered number with the generated one and reports the number of "bulls" and "cows."
 5. **Game Rules**: The player can toggle the display of the game rules.
 
-![Uploading bullsAndCows.gif…]()
+![bullsAndCows](https://github.com/user-attachments/assets/19954972-b01e-4083-9b20-3c366ad42e90)
 
 ## Usage
 To start the game, open the `index.html` file in a web browser.
